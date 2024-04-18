@@ -4,7 +4,6 @@
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-- 🌱 I’m currently learning **Frontend**
 - :school: I am a `Student` in [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) at [ٍSouth Valley University](https://www.svu.edu.eg/ar/).
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`.
@@ -14,6 +13,7 @@
 - ⏫ I am a `fast typer`.
 <!--- :thinking: I’m currently open for a new `job opportunity`, this is [MY resume].-->
 <!--- :trophy: 2x `ECPC` Finalist.
+- 🌱 I’m currently learning **Frontend**
 - :trophy: 1x `ACPC` Finalist.-->
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
