@@ -41,7 +41,7 @@
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  </p>
 
-### <img src = "https://th.bing.com/th/id/R.b7b6b556e58005b762b0c67a21d1903e?rik=%2fprvTgAqnHJuRQ&pid=ImgRaw&r=0" width=5%> Typing Skill
+### <img src = "https://th.bing.com/th/id/R.b7b6b556e58005b762b0c67a21d1903e?rik=%2fprvTgAqnHJuRQ&pid=ImgRaw&r=0.png" width=5%> Typing Skill
 <p>
 <a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.audzFF7J2jyYzsNfjOb9mwHaHa?rs=1&pid=ImgDetMain" alt="cplusplus" width="40" height="40"/> </a>
 </p>
