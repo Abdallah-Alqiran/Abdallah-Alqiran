@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **Frontend**
 - :school: I am a `Student` in [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) at [ٍSouth Valley University](https://www.svu.edu.eg/ar/).
-<!--- :trophy: 2x `ECPC` Finalist.
-- :trophy: 1x `ACPC` Finalist.-->
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`.
+- 🔥 I'm solving problems in `c++`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :focus: I'm solving problems in `c++`.
 - :nerd_face: Always `learning new things`.
-- :good_Ability: I am a `fast typer`.
+- ⏫ I am a `fast typer`.
 <!--- :thinking: I’m currently open for a new `job opportunity`, this is [MY resume].-->
+<!--- :trophy: 2x `ECPC` Finalist.
+- :trophy: 1x `ACPC` Finalist.-->
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
