@@ -39,9 +39,12 @@
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.audzFF7J2jyYzsNfjOb9mwHaHa?rs=1&pid=ImgDetMain" alt="cplusplus" width="40" height="40"/> </a>
  </p>
 
+### <img src = "https://miro.medium.com/v2/resize:fit:773/1*2Jlse2XsQGbT_eXn3kkBtg.jpeg" width=5%> Typing Skill
+<p>
+<a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.audzFF7J2jyYzsNfjOb9mwHaHa?rs=1&pid=ImgDetMain" alt="cplusplus" width="40" height="40"/> </a>
+</p>
  
 
 
