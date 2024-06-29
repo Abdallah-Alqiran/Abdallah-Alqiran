@@ -44,7 +44,7 @@
 ###  Typing Skill
 <p>
 <a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.audzFF7J2jyYzsNfjOb9mwHaHa?rs=1&pid=ImgDetMain" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://monkeytype.com/profile/Abdallah_Alqiran" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.audzFF7J2jyYzsNfjOb9mwHaHa?rs=1&pid=ImgDetMain" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://monkeytype.com/profile/Abdallah_Alqiran" target="_blank" rel="noreferrer"> <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
  
 
