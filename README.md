@@ -21,6 +21,7 @@
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/Abdallah-Alqiran"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+ <a href="https://leetcode.com/u/Abdallah_Alqiran/"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/LeetCode_logo_black.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
 </div>
 
