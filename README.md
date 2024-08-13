@@ -6,11 +6,12 @@
 
 - :school: I am a `Student` in [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) at [ٍSouth Valley University](https://www.svu.edu.eg/ar/).
 - :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`.
+- :computer: I am a competitive programmer at `Codeforces` and `leet code`.
 - 🔥 I'm solving problems in `c++`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - ⏫ I am a `fast typer`.
+- 🏅 I joined the `ECPC qualification`.
 <!--- :thinking: I’m currently open for a new `job opportunity`, this is [MY resume].-->
 <!--- :trophy: 2x `ECPC` Finalist.
 - 🌱 I’m currently learning **Frontend**
