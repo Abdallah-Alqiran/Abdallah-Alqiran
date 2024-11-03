@@ -10,7 +10,7 @@
 - 🔥 I'm solving problems in `c++`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- ⏫ I am a `fast typer`.
+- ⏫ I am a `fast typer`.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🏅 I joined the `ECPC qualification`.
 <!--- :thinking: I’m currently open for a new `job opportunity`, this is [MY resume].-->
 <!--- :trophy: 2x `ECPC` Finalist.
