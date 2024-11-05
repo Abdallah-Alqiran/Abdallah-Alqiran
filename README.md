@@ -8,14 +8,12 @@
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces` and `leet code`.
 - 🔥 I'm solving problems in `c++`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: Currently learning `Computer Science` and Android development with `Kotlin`.
 - :nerd_face: Always `learning new things`.
 - ⏫ I am a `fast typer`.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🏅 I joined the `ECPC qualification`.
 <!--- :thinking: I’m currently open for a new `job opportunity`, this is [MY resume].-->
-<!--- :trophy: 2x `ECPC` Finalist.
-- 🌱 I’m currently learning **Frontend**
-- :trophy: 1x `ACPC` Finalist.-->
+
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
