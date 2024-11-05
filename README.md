@@ -15,8 +15,8 @@
 - 🔥solving problems using `C++`.
 - :student: Currently learning `Computer Science` and Android development with `Kotlin`.
 - :nerd_face: Always `learning new things`.
-- ⏫ I am a `fast typer`.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🏅 I joined the `ECPC qualification`.
+- ⏫ I am a `fast typer`.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!--- :thinking: I’m currently open for a new `job opportunity`, this is [MY resume].-->
 
 
