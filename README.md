@@ -6,7 +6,7 @@
 
 - :school: I am a `Student` in [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) at [ٍSouth Valley University](https://www.svu.edu.eg/ar/).
 - :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a competitive programmer at [Codeforces](https://codeforces.com/profile/Abdallah-Alqiran) and [LeetCode](https://leetcode.com/u/Abdallah_Alqiran/).
+- :computer: I am a competitive programmer at `[Codeforces]`(https://codeforces.com/profile/Abdallah-Alqiran) and `[LeetCode]`(https://leetcode.com/u/Abdallah_Alqiran/).
 
 - 🔥solving problems using `C++`.
 - :student: Currently learning `Computer Science` and Android development with `Kotlin`.
