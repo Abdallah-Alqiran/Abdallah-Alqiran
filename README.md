@@ -7,7 +7,7 @@
 - :school: I am a `Student` in [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) at [ٍSouth Valley University](https://www.svu.edu.eg/ar/).
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces` and `leet code`.
-- 🔥 I'm solving problems in `c++`.
+- 🔥solving problems using `C++`.
 - :student: Currently learning `Computer Science` and Android development with `Kotlin`.
 - :nerd_face: Always `learning new things`.
 - ⏫ I am a `fast typer`.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
