@@ -53,6 +53,23 @@
 
  </p>
 
+ ### <img src = "https://miro.medium.com/v2/resize:fit:773/1*2Jlse2XsQGbT_eXn3kkBtg.jpeg" width=5%> Technologies & Tools
+
+ <a><img src="https://img.shields.io/badge/-Git-%23F05032?style=plastic&amp;logo=Git&amp;logoColor=%23ffffff"
+        style="max-width: 100%;"> 
+	</a>
+<a><img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&amp;logo=Github"
+        style="max-width: 100%;">
+	</a>
+ <a><img src="http://img.shields.io/badge/-Android%20Studio-fff?style=plastic&amp;logo=android-studio&amp;logoColor=000">
+         </a>
+ <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/-Notion-fff?style=plastic&amp;logo=notion&amp;logoColor=000" style="max-width: 100%;">
+	</a>
+
+ 
+ </p>
+
 ###  Typing Skill
 <p>
 <a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.audzFF7J2jyYzsNfjOb9mwHaHa?rs=1&pid=ImgDetMain" alt="cplusplus" width="40" height="40"/> </a>
