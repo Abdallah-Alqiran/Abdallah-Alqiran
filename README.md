@@ -54,7 +54,6 @@
  </p>
 
 ## 🛠️ Technologies & Tools
-
  <a><img src="https://img.shields.io/badge/-Git-%23F05032?style=plastic&amp;logo=Git&amp;logoColor=%23ffffff"
         style="max-width: 100%;"> 
 	</a>
