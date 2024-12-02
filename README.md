@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdallah-Alqiran</h1>
+<h1 align="center">Hi 👋, I'm Abdallah Mahmoud Ramadan</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
