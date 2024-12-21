@@ -40,7 +40,7 @@
 
 ### <img src="https://miro.medium.com/v2/resize:fit:773/1*2Jlse2XsQGbT_eXn3kkBtg.jpeg" width="25" height="25"> Programming languages
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a> 
  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -54,7 +54,7 @@
  </p>
 
 ## 🛠️ Technologies & Tools
-<p>
+<p align="center">
  <a><img src="https://img.shields.io/badge/-Git-%23F05032?style=plastic&amp;logo=Git&amp;logoColor=%23ffffff"
         style="max-width: 100%;"> 
 	</a>
