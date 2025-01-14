@@ -66,6 +66,8 @@
  <a target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/-Notion-fff?style=plastic&amp;logo=notion&amp;logoColor=000" style="max-width: 100%;">
 	</a>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
  </p>
 
 ##  Typing Skill
