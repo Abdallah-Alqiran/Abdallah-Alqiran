@@ -13,7 +13,8 @@
 - 🔥solving problems using `C++` and `Kotlin`.
 - :student: Currently learning `Computer Science` and Android development with `Kotlin`.
 - 🏅 Participated in the ECPC qualification.
-- 🚀 Actively seeking `job opportunities`, [View MY CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx).
+- 💼 Actively seeking `job opportunities`  
+  📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
 
 
 #  🚀 <strong>Skills</strong> 🚀  
@@ -63,7 +64,7 @@
 </p>
 
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+## ⚔️ Competitive Programming Profiles
 
 <p align="center">
   <!-- Codeforces -->
@@ -92,12 +93,12 @@
 ## 🖥️ Operating Systems
 
 <p align="center">
-  <!-- Linux -->
-  <a img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" height="22"></a>
   <!-- Windows -->
-  <a img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows" height="22"></a>
-  </a>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows" height="22"/>
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" height="22"/>
 </p>
+
 
 ## 🌍 Languages
 
@@ -112,7 +113,7 @@
 
 <p align="center">
 <!-- Type Racer -->
-<a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.audzFF7J2jyYzsNfjOb9mwHaHa?rs=1&pid=ImgDetMain" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-6/250250069_4650162301696363_8538544932524016309_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=tb890p6jqvgQ7kNvwE6jkwA&_nc_oc=AdkAeQBx5oBtqKud-4BSmLUlhzSyqYLIRVp6wgo-CyCuitrAWVZjDetZGjkIqgw5TwA&_nc_zt=23&_nc_ht=scontent.fcai20-6.fna&_nc_gid=u1e-yex76fK20NJQJpHiKg&oh=00_AfPtVzudfCZPPH8FNG4xBxJubKQZksk74n90mnrD-e-FzA&oe=6854D4FC" alt="cplusplus" width="40" height="40"/> </a>
 <!-- Monkey Type -->
 <a href="https://monkeytype.com/profile/Abdallah_Alqiran" target="_blank" rel="noreferrer"> <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
