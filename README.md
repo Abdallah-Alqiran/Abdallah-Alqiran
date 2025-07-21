@@ -37,7 +37,7 @@
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <!-- JavaScript -->
-  <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="javaScript" width="35" height="35"/>
+  <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="javaScript" width="40" height="40"/>
   <!-- PHP -->
   <img src="https://www.pngrepo.com/png/303208/512/php-1-logo.png" alt="PHP" width="40" height="40"/>
 
