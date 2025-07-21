@@ -11,7 +11,8 @@
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at [Codeforces](https://codeforces.com/profile/Abdallah_Alqiran) and [LeetCode](https://leetcode.com/u/Abdallah_Alqiran/).
 - 🔥solving problems using `C++` and `Kotlin`.
-- :student: Currently learning `Computer Science` and Android development with `Kotlin`.
+- :student: Currently dive in Android development with `Kotlin`.
+- 💪🏿Developing strong and scalable applications while tackling technical challenges.
 - 🏅 Participated in the ECPC qualification.
 - 💼 Actively seeking `job opportunities`  
   📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
@@ -35,6 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <!-- JavaScript -->
+  <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="javaScript" width="35" height="35"/>
+  <!-- PHP -->
+  <img src="https://www.pngrepo.com/png/303208/512/php-1-logo.png" alt="PHP" width="40" height="40"/>
+
 </p>
 
 
@@ -49,6 +55,8 @@
   <img src="https://logo.svgcdn.com/d/jetpackcompose-original-8x.png" height="40" alt="jetpack compose logo"/>
   <!-- Flutter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>
+  <!-- Laravel -->
+  <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" height="40" alt="Laravel Logo"/>
   <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"/>
   <!-- Git -->
@@ -113,7 +121,7 @@
 
 <p align="center">
 <!-- Type Racer -->
-<a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-6/250250069_4650162301696363_8538544932524016309_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=tb890p6jqvgQ7kNvwE6jkwA&_nc_oc=AdkAeQBx5oBtqKud-4BSmLUlhzSyqYLIRVp6wgo-CyCuitrAWVZjDetZGjkIqgw5TwA&_nc_zt=23&_nc_ht=scontent.fcai20-6.fna&_nc_gid=u1e-yex76fK20NJQJpHiKg&oh=00_AfPtVzudfCZPPH8FNG4xBxJubKQZksk74n90mnrD-e-FzA&oe=6854D4FC" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="./assets/typeracer.png" alt="cplusplus" width="40" height="40"/> </a>
 <!-- Monkey Type -->
 <a href="https://monkeytype.com/profile/Abdallah_Alqiran" target="_blank" rel="noreferrer"> <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
