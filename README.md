@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdallah Mahmoud Ramadan</h1>
 <h3 align="center">An enthusiastic Android Developer from Egypt 🇪🇬</h3>
 
-# ✨ <strong>About Me</strong> ✨  
+# ✨ <strong>About Me</strong> ✨
+
 <p align="center"><em>A quick look at me</em></p>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
@@ -17,11 +18,9 @@
 - 💼 Actively seeking `job opportunities`  
   📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
 
+# 🚀 <strong>Skills</strong> 🚀
 
-#  🚀 <strong>Skills</strong> 🚀  
 <p align="center"><em>What I use to build, solve, and explore</em></p>
-
-
 
 ## 🧾 Programming Languages
 
@@ -37,14 +36,11 @@
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <!-- JavaScript -->
-  <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="javaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40"/>
   <!-- PHP -->
-  <img src="https://www.pngrepo.com/png/303208/512/php-1-logo.png" alt="PHP" width="40" height="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <!-- Stack overflow -->
 </p>
-
-
- </p>
 
 ## 🛠️ Technologies & Tools
 
@@ -69,8 +65,9 @@
   <img src="https://img.shields.io/badge/-Notion-fff?style=plastic&logo=notion&logoColor=000" alt="Notion"/>
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
+  <!-- Stack Overflow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="PHP" width="40" height="40"/>
 </p>
-
 
 ## ⚔️ Competitive Programming Profiles
 
@@ -85,7 +82,6 @@
          alt="LeetCode" height="40"/>
   </a>
 </p>
-
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 
@@ -106,7 +102,6 @@
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" height="22"/>
 </p>
-
 
 ## 🌍 Languages
 
