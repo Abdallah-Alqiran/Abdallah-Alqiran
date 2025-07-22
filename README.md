@@ -47,6 +47,8 @@
 <p align="center">
   <!-- Android Studio -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"/>
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo"/>
   <!-- Jetpack Compose -->
   <img src="https://logo.svgcdn.com/d/jetpackcompose-original-8x.png" height="40" alt="jetpack compose logo"/>
   <!-- Flutter -->
