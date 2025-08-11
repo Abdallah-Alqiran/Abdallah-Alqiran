@@ -9,7 +9,7 @@
 
 - 📱 Passionate about building modern Android apps using Kotlin and Jetpack Compose.
 - :school: `Student` at the [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) - [South Valley University](https://www.svu.edu.eg/ar/).
-- :computer: I am a competitive programmer at [Codeforces](https://codeforces.com/profile/Abdallah_Alqiran) and [LeetCode](https://leetcode.com/u/Abdallah_Alqiran/).
+- :computer: Competitive programmer at [Codeforces](https://codeforces.com/profile/Abdallah_Alqiran) and [LeetCode](https://leetcode.com/u/Abdallah_Alqiran/).
 - 🔥solving problems using `C++` and `Kotlin`.
 - :student: Currently dive in Android development with `Kotlin`.
 - 💪🏿Developing strong and scalable applications while tackling technical challenges.
