@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdallah Mahmoud Ramadan</h1>
-<h3 align="center">An enthusiastic Android Developer from Egypt 🇪🇬</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:2E7D32&height=300&section=header&text=Abdallah%20Mahmoud%20Alqiran&fontSize=56&fontAlignY=35&desc=Mobile%20Developer&descAlignY=51&descSize=20&animation=fadeIn" alt="Abdallah Mahmoud Alqiran Banner" />
+</p>
 
 # ✨ <strong>About Me</strong> ✨
 
@@ -7,8 +8,8 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-- 📱 Passionate about building modern Android apps using Kotlin and Jetpack Compose.
-- :school: `Student` at the [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) - [South Valley University](https://www.svu.edu.eg/ar/).
+- 📱 Building Mobile Apps using Kotiln and Flutter.
+- 👨‍🎓 `Student` at the [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) - [Qena University](https://www.svu.edu.eg/ar/).
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at [Codeforces](https://codeforces.com/profile/Abdallah_Alqiran) and [LeetCode](https://leetcode.com/u/Abdallah_Alqiran/).
 - 🔥solving problems using `C++` and `Kotlin`.
@@ -18,7 +19,7 @@
 - 💼 Actively seeking `job opportunities`  
   📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
 
-# 🚀 <strong>Skills</strong> 🚀
+# 🔥 <strong>Skills</strong> 🔥
 
 <p align="center"><em>What I use to build, solve, and explore</em></p>
 
@@ -78,7 +79,7 @@
   </a>
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Abdallah_Alqiran/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
          alt="LeetCode" height="40"/>
   </a>
 </p>
@@ -87,11 +88,11 @@
 
 <p align="center">
     <!-- Email -->
-	<a href="mailto:abdallahalqiran765@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+ <a href="mailto:abdallahalqiran765@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <!-- Linked in -->
-	<a href="https://www.linkedin.com/in/abdallah-alqiran-1788ba290/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://www.linkedin.com/in/abdallah-alqiran-1788ba290/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <!-- Whats app -->
-	<a href="https://wa.me/201016611062" target="_blank"><img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+ <a href="https://wa.me/201016611062" target="_blank"><img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 ## 🖥️ Operating Systems
