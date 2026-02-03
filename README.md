@@ -50,7 +50,6 @@
   <p align="center" style="margin: 0; padding: 0;"><em>The rhythm behind the code</em></p>
 </div>
 
-
 ## 🧾 Programming Languages
 
 <p align="center">
@@ -115,7 +114,6 @@
          alt="LeetCode" height="40"/>
   </a>
 </p>
-
 
 ## 🖥️ Operating Systems
 
