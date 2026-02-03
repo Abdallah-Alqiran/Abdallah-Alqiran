@@ -4,10 +4,8 @@
 <!-- markdownlint-disable MD022 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:2E7D32&height=300&section=header&text=Abdallah%20Mahmoud%20Alqiran&fontSize=56&fontAlignY=35&desc=Mobile%20Developer&descAlignY=51&descSize=20&animation=fadeIn" alt="Abdallah Mahmoud Alqiran Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:2E7D32&height=300&section=header&text=Abdallah%20Mahmoud%20Alqiran&fontSize=56&fontAlignY=35&desc=Mobile%20Developer%20|%20Software%20Engineer&descAlignY=51&descSize=20&animation=fadeIn&fontColor=ffffff&descColor=ffffff" alt="Abdallah Mahmoud Alqiran Banner" />
 </p>
-
-
 
 <p align="center">
   <!-- Email -->
@@ -24,24 +22,11 @@
   <a href="https://abdallah-alqiran.github.io/web-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-
 <div align="center">
-
-<h2 style="border-bottom: none; margin-bottom: 0px;"><strong>About Me</strong></h2>
-
-<svg width="1000" height="5" viewBox="0 0 1000 5" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1000" height="3" rx="2.5" fill="url(#paint0_linear)"/>
-  <defs>
-    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4ade80"/> 
-      <stop offset="1" stop-color="#3b82f6"/> 
-    </linearGradient>
-  </defs>
-</svg>
-
+  <h2 style="border-bottom: none; margin: 0; padding: 0;"><strong>About Me</strong></h2>
+  <img src="./assets/separator.svg" width="100%" alt="separator" />
+  <p align="center" style="margin: 0; padding: 0;"><em>A quick look at me</em></p>
 </div>
-
-<p align="center"><em>A quick look at me</em></p>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
@@ -52,25 +37,13 @@
 - :student: Currently work as Mobile Developer.
 - 💪🏿 Developing strong and scalable applications while tackling technical challenges.
 - 🏅 Participated in the ECPC qualification two times.
-  📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
+  📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd1pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
 
 <div align="center">
-
-  <h2 style="border-bottom: none; margin-bottom: 0px;"><strong>Skills</strong></h2>
-
-  <svg width="1000" height="5" viewBox="0 0 1000 5" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="1000" height="3" rx="2.5" fill="url(#paint2_linear)"/>
-    <defs>
-      <linearGradient id="paint2_linear" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#4ade80"/> 
-        <stop offset="1" stop-color="#3b82f6"/> 
-      </linearGradient>
-    </defs>
-  </svg>
-
+  <h2 style="border-bottom: none; margin: 0; padding: 0;"><strong>Skills</strong></h2>
+  <img src="./assets/separator.svg" width="100%" alt="separator" />
+  <p align="center" style="margin: 0; padding: 0;"><em>The rhythm behind the code</em></p>
 </div>
-
-<p align="center"><em>The rhythm behind the code</em></p>
 
 
 ## 🧾 Programming Languages
@@ -173,19 +146,10 @@
   </p> -->
 
 <div align="center">
-  <h2 style="border-bottom: none; margin-bottom: 0px;"><strong>Featured Projects</strong></h2>
-  <svg width="1000" height="5" viewBox="0 0 1000 5" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="1000" height="3" rx="2.5" fill="url(#paint1_linear)"/>
-    <defs>
-      <linearGradient id="paint1_linear" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#4ade80"/> 
-        <stop offset="1" stop-color="#3b82f6"/> 
-      </linearGradient>
-    </defs>
-  </svg>
+  <h2 style="border-bottom: none; margin: 0; padding: 0;"><strong>Featured Projects</strong></h2>
+  <img src="./assets/separator.svg" width="100%" alt="separator" />
+  <p align="center" style="margin: 0; padding: 0;"><em>My Greatest Hits</em></p>
 </div>
-
-<p align="center"><em>My Greatest Hits</em></p>
 
 <table align="center">
   <tr>
