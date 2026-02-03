@@ -1,27 +1,77 @@
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD045 -->
+<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD022 -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:2E7D32&height=300&section=header&text=Abdallah%20Mahmoud%20Alqiran&fontSize=56&fontAlignY=35&desc=Mobile%20Developer&descAlignY=51&descSize=20&animation=fadeIn" alt="Abdallah Mahmoud Alqiran Banner" />
 </p>
 
-# ✨ <strong>About Me</strong> ✨
+
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:abdallahalqiran765@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abdallah-alqiran-1788ba290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201016611062" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/abdullah.mahmoudalqiran/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/23220207/abdallah-alqiran"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a>
+  <!-- Portfolio -->
+  <a href="https://abdallah-alqiran.github.io/web-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+
+<div align="center">
+
+<h2 style="border-bottom: none; margin-bottom: 0px;"><strong>About Me</strong></h2>
+
+<svg width="1000" height="5" viewBox="0 0 1000 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="3" rx="2.5" fill="url(#paint0_linear)"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4ade80"/> 
+      <stop offset="1" stop-color="#3b82f6"/> 
+    </linearGradient>
+  </defs>
+</svg>
+
+</div>
 
 <p align="center"><em>A quick look at me</em></p>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-- 📱 Building Mobile Apps using Kotiln and Flutter.
-- 👨‍🎓 `Student` at the [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) - [Qena University](https://www.svu.edu.eg/ar/).
-- :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a competitive programmer at [Codeforces](https://codeforces.com/profile/Abdallah_Alqiran) and [LeetCode](https://leetcode.com/u/Abdallah_Alqiran/).
-- 🔥solving problems using `C++` and `Kotlin`.
-- :student: Currently dive in Android development with `Kotlin`.
-- 💪🏿Developing strong and scalable applications while tackling technical challenges.
-- 🏅 Participated in the ECPC qualification.
-- 💼 Actively seeking `job opportunities`  
+- 📱 Mobile Developer using Kotlin and Flutter.
+- 👨‍🎓 Student at the [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) - [Qena University](https://www.svu.edu.eg/ar/).
+- :computer: Competitive programmer at [Codeforces](https://codeforces.com/profile/Abdallah_Alqiran) and [LeetCode](https://leetcode.com/u/Abdallah_Alqiran/).
+- 🔥 Solving Real Problems.
+- :student: Currently work as Mobile Developer.
+- 💪🏿 Developing strong and scalable applications while tackling technical challenges.
+- 🏅 Participated in the ECPC qualification two times.
   📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
 
-# 🔥 <strong>Skills</strong> 🔥
+<div align="center">
 
-<p align="center"><em>What I use to build, solve, and explore</em></p>
+  <h2 style="border-bottom: none; margin-bottom: 0px;"><strong>Skills</strong></h2>
+
+  <svg width="1000" height="5" viewBox="0 0 1000 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1000" height="3" rx="2.5" fill="url(#paint2_linear)"/>
+    <defs>
+      <linearGradient id="paint2_linear" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#4ade80"/> 
+        <stop offset="1" stop-color="#3b82f6"/> 
+      </linearGradient>
+    </defs>
+  </svg>
+
+</div>
+
+<p align="center"><em>The rhythm behind the code</em></p>
+
 
 ## 🧾 Programming Languages
 
@@ -40,7 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40"/>
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <!-- Stack overflow -->
+
 </p>
 
 ## 🛠️ Technologies & Tools
@@ -48,6 +98,8 @@
 <p align="center">
   <!-- Android Studio -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"/>
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo"/>
   <!-- Jetpack Compose -->
   <img src="https://logo.svgcdn.com/d/jetpackcompose-original-8x.png" height="40" alt="jetpack compose logo"/>
   <!-- Flutter -->
@@ -62,12 +114,14 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=Github" alt="GitHub"/>
   <!-- Postman -->
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman"/>
+  <!-- Jira -->
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=plastic&logo=jira&logoColor=white" alt="Jira"/>
   <!-- Notion -->
   <img src="https://img.shields.io/badge/-Notion-fff?style=plastic&logo=notion&logoColor=000" alt="Notion"/>
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
   <!-- Stack Overflow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
 </p>
 
 ## ⚔️ Competitive Programming Profiles
@@ -84,16 +138,6 @@
   </a>
 </p>
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
-
-<p align="center">
-    <!-- Email -->
- <a href="mailto:abdallahalqiran765@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <!-- Linked in -->
- <a href="https://www.linkedin.com/in/abdallah-alqiran-1788ba290/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <!-- Whats app -->
- <a href="https://wa.me/201016611062" target="_blank"><img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
 
 ## 🖥️ Operating Systems
 
@@ -122,7 +166,162 @@
 <a href="https://monkeytype.com/profile/Abdallah_Alqiran" target="_blank" rel="noreferrer"> <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
- <h3 align="left">🏆 GitHub Trophies:</h3>
+ <!-- <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
       <img src="https://github-profile-trophy.vercel.app/?username=Abdallah-Alqiran&theme=onestar&row=1&column=7"/>
-  </p>
+
+  </p> -->
+
+<div align="center">
+  <h2 style="border-bottom: none; margin-bottom: 0px;"><strong>Featured Projects</strong></h2>
+  <svg width="1000" height="5" viewBox="0 0 1000 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1000" height="3" rx="2.5" fill="url(#paint1_linear)"/>
+    <defs>
+      <linearGradient id="paint1_linear" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#4ade80"/> 
+        <stop offset="1" stop-color="#3b82f6"/> 
+      </linearGradient>
+    </defs>
+  </svg>
+</div>
+
+<p align="center"><em>My Greatest Hits</em></p>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚖️ Mezan – Educational App</h3>
+      <div align="center">
+        <a href="https://apps.apple.com/us/app/mezan/id6753829880" target="_blank">
+          <img src="https://github.com/user-attachments/assets/0f953273-a45d-426f-b157-f972896f5ed5" alt="Mezan App" width="100%" />
+        </a>
+        <br>
+        <p>
+          <strong>🔧 Flutter • Cubit • Dio • Video Player • PDF Viewer</strong>
+        </p>
+        <p>
+           Educational app for Law students. Developed most screens, maintained updates. Serves 900+ students.
+        </p>
+        <p>
+          <a href="https://apps.apple.com/us/app/mezan/id6753829880" target="_blank">
+            <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏋️ TurboFit – Fitness App</h3>
+      <div align="center">
+        <a href="https://github.com/Abdallah-Alqiran/Fitness-App" target="_blank">
+          <img src="https://github.com/user-attachments/assets/b5b4b050-04af-4816-a186-f2165d1aec06" alt="TurboFit" width="100%" />
+        </a>
+        <br>
+        <p>
+          <strong>🔧 Kotlin • Jetpack Compose • Health Connect • Firebase</strong>
+        </p>
+        <p>
+           Android fitness app. Features health data sync, water tracking, workouts, food search, and calorie estimation.
+        </p>
+        <p>
+          <a href="https://github.com/Abdallah-Alqiran/Fitness-App" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://drive.google.com/drive/folders/16ChnbU_ekxtOO20j1MpxsDKuFSgnO1Ck" target="_blank">
+            <img src="https://img.shields.io/badge/Download-34A853?style=for-the-badge&logo=google-drive&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Portfolio & Admin</h3>
+      <div align="center">
+        <a href="https://abdallah-alqiran.github.io/web-portfolio/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/e82b2de7-8f06-4c10-bf2a-b1a9bf4c249e" alt="Portfolio" width="100%" />
+        </a>
+         <br>
+        <p>
+          <strong>🔧 Kotlin • Jetpack Compose • Firebase • MVVM</strong>
+        </p>
+        <p>
+           Personal Portfolio with user and admin modes for dynamic content management.
+        </p>
+        <p>
+          <a href="https://github.com/Abdallah-Alqiran/Portfolio-Admin" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://abdallah-alqiran.github.io/web-portfolio/" target="_blank">
+            <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📖 استمع وتدبر</h3>
+      <div align="center">
+        <a href="https://github.com/Abdallah-Alqiran/Quraan_App" target="_blank">
+          <img src="https://github.com/user-attachments/assets/9eca1f1c-5e47-4c1f-b81b-a57ff8dba410" alt="Quraan App" width="100%" />
+        </a>
+         <br>
+        <p>
+          <strong>🔧 Kotlin • Compose • Media3 • Navigation 3</strong>
+        </p>
+        <p>
+           Qur'an application providing a wide range of reciters and narrations for easy listening.
+        </p>
+        <p>
+          <a href="https://github.com/Abdallah-Alqiran/Quraan_App" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://drive.google.com/drive/folders/1jjiaPyWnIew3yiXD_kmW7TG1-rk65_VH" target="_blank">
+            <img src="https://img.shields.io/badge/Download-34A853?style=for-the-badge&logo=google-drive&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+## <strong>Let's Connect!</strong>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
+
+<p align="center"><em>Compiling the next big idea together</em></p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <p><b>I'm always open to interesting conversations and collaboration opportunities!</b></p>
+</div>
+
+<p align="center">
+  <a href="mailto:abdallahalqiran765@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdallah-alqiran-1788ba290/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Abdallah-Alqiran">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="center">📫 Reach me at: <a href="mailto:abdallahalqiran765@gmail.com"><b>abdallahalqiran765@gmail.com</b></a></h3>
+
+<div align="center">
+
+### 💚 Thanks for visiting my profile! Have a great day! 💚
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:2E7D32&height=120&section=footer&animation=twinkling" />
+
+</div>
+
+
+
+---
+
+
