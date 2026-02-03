@@ -38,7 +38,7 @@
 - :student: Currently work as Mobile Developer.
 - 💪🏿 Developing strong and scalable applications while tackling technical challenges.
 - 🏅 Participated in the ECPC qualification two times.
-  📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd1pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
+  📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd0pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
   
 </div>
 
