@@ -16,7 +16,7 @@
   <a href="https://wa.me/201016611062" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <!-- Facebook -->
   <a href="https://www.facebook.com/abdullah.mahmoudalqiran/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <!-- Stack Overflow -->
+  <!-- StackOverflow -->
   <a href="https://stackoverflow.com/users/23220207/abdallah-alqiran"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a>
   <!-- Portfolio -->
   <a href="https://abdallah-alqiran.github.io/web-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
@@ -28,6 +28,7 @@
   <p align="center" style="margin: 0; padding: 0;"><em>A quick look at me</em></p>
 </div>
 
+<div>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 - 📱 Mobile Developer using Kotlin and Flutter.
@@ -38,6 +39,10 @@
 - 💪🏿 Developing strong and scalable applications while tackling technical challenges.
 - 🏅 Participated in the ECPC qualification two times.
   📄 [View My CV](https://drive.google.com/drive/folders/1H3fWSC_sh6Sic_gVzc5DmiTSNDd1pXvx) | 🌐 [Visit My Portfolio](https://abdallah-alqiran.github.io/web-portfolio/)
+  
+</div>
+
+<br clear="right">
 
 <div align="center">
   <h2 style="border-bottom: none; margin: 0; padding: 0;"><strong>Skills</strong></h2>
@@ -55,9 +60,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <!-- HTML5 -->
+  <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <!-- CSS3 -->
+  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40"/>
@@ -133,19 +138,13 @@
 ## ⌨️ Typing Skill
 
 <p align="center">
-<!-- Type Racer -->
+  <!-- Typeracer -->
 <a href="https://data.typeracer.com/pit/profile?user=abdallah_alqiran" target="_blank" rel="noreferrer"> <img src="./assets/typeracer.png" alt="cplusplus" width="40" height="40"/> </a>
-<!-- Monkey Type -->
+<!-- MonkeyType -->
 <a href="https://monkeytype.com/profile/Abdallah_Alqiran" target="_blank" rel="noreferrer"> <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
- <!-- <h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="left">
-      <img src="https://github-profile-trophy.vercel.app/?username=Abdallah-Alqiran&theme=onestar&row=1&column=7"/>
-
-  </p> -->
-
-<div align="center">
+ <div align="center">
   <h2 style="border-bottom: none; margin: 0; padding: 0;"><strong>Featured Projects</strong></h2>
   <img src="./assets/separator.svg" width="100%" alt="separator" />
   <p align="center" style="margin: 0; padding: 0;"><em>My Greatest Hits</em></p>
@@ -248,11 +247,8 @@
 </table>
 
 <div align="center">
-
-## <strong>Let's Connect!</strong>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
+  <h2 style="border-bottom: none; margin: 0; padding: 0;"><strong>Let's Connect!</strong></h2>
+  <img src="./assets/separator.svg" width="100%" alt="separator" />
 </div>
 
 <p align="center"><em>Compiling the next big idea together</em></p>
@@ -283,9 +279,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:2E7D32&height=120&section=footer&animation=twinkling" />
 
 </div>
-
-
-
----
-
-
